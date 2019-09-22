@@ -38,4 +38,6 @@ function removeLastKitten(name) {
   return newKittens;
 }
 
-function
+function removeFirstKitten(name) {
+  var newKittens = 
+}
